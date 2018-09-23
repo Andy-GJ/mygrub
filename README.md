@@ -1,0 +1,2 @@
+# mygrub
+my grub
